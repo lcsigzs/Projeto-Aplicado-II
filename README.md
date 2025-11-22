@@ -1,3 +1,12 @@
+🎞️ Apresentação do Projeto
+---------------------------
+* Link: https://www.youtube.com/watch?v=noFNmapAosk
+
+📈​ Objetivo
+---------------------------
+* Analisar as avaliações dos usuários do aplicativo Tinder publicadas na Google Play Store, aplicando técnicas de ciência de dados e processamento de linguagem natural (PLN) para identificar padrões de sentimento, temas recorrentes e oportunidades de melhoria
+
+
 📁 Estrutura do Repositório
 ---------------------------
 
@@ -13,9 +22,4 @@
 * Paulo Ricardo de Oliveira Ramos – RA 10721464
 * Lucas Iglezias dos Anjos – RA 10433522
 * Oscar Augusto de Oliveira Luz – RA 10435099
-
-Objetivo
---------
-
-Analisar as avaliações dos usuários do aplicativo Tinder publicadas na Google Play Store, aplicando técnicas de ciência de dados e processamento de linguagem natural (PLN) para identificar padrões de sentimento, temas recorrentes e oportunidades de melhoria
 
