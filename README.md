@@ -23,3 +23,6 @@
 * Lucas Iglezias dos Anjos – RA 10433522
 * Oscar Augusto de Oliveira Luz – RA 10435099
 
+⬇️​ Downloads a parte
+-------------------------
+* Link: https://drive.google.com/file/d/17IVOhVaXY8mOfpTdhlulrkHUmNHvTxJl/view
