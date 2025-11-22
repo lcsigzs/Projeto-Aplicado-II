@@ -9,7 +9,7 @@
 
 📁 Estrutura do Repositório
 ---------------------------
-
+* `Acurácia do Projeto/` - Documentação da acurácia do projeto
 * `data/` – Arquivos de dados tratados e compactados (.csv via Git LFS)
 * `scripts/` – Scripts Python utilizados no projeto
 * `docs/` – Documentação técnica e relatório final
@@ -17,7 +17,6 @@
 
 👥 Integrantes do Projeto
 -------------------------
-
 * Thaís Cristine de Andrade Gomes – RA 10721642
 * Paulo Ricardo de Oliveira Ramos – RA 10721464
 * Lucas Iglezias dos Anjos – RA 10433522
